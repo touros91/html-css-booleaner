@@ -37,10 +37,14 @@
     background-color: yellow;
 }
 
+table {
+    border-collapse: collapse;
+  }
+
 .intestazione-tabella {
     color: white;
     background-color: #20A9E5;
-    text-align: justify;
+    text-align: left;
 }
 
 .riga-tabella {
