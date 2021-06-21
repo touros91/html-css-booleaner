@@ -1,5 +1,5 @@
 .contenitore {
-    width: 80%;
+    width: 85%;
     margin: auto;
 }
 
@@ -13,4 +13,35 @@
     padding-top: 40px;
     padding-left: 5px;
     width: 200px;
+}
+
+.titolo {
+    font-size: 40px;
+    margin-bottom: 0px;
+}
+
+#scritto-da{
+    color: #A6A6A6;
+}
+
+.autore    {
+    color: #20A9E5;
+    text-decoration: none;
+}
+
+.fonti {
+    font-size: 13px;
+}
+
+.importante {
+    background-color: yellow;
+}
+
+.intestazione-tabella {
+    color: white;
+    background-color: #20A9E5;
+}
+
+.corpo-tabella {
+    background-color: #B1E5F2;
 }
