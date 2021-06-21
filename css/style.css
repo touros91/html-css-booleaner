@@ -40,8 +40,11 @@
 .intestazione-tabella {
     color: white;
     background-color: #20A9E5;
+    text-align: justify;
 }
 
-.corpo-tabella {
+.riga-tabella {
     background-color: #B1E5F2;
 }
+
+
