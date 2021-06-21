@@ -1,7 +1,10 @@
+/* contenitore principale */
 .contenitore {
     width: 85%;
     margin: auto;
 }
+
+/* header  */
 
 .sfondo-logo {
     background-image: url("../img/pattern.png");
@@ -14,6 +17,8 @@
     padding-left: 5px;
     width: 200px;
 }
+
+/* main  */
 
 .titolo {
     font-size: 40px;
@@ -37,19 +42,26 @@
     background-color: yellow;
 }
 
+/* tabella  */
+
 table {
-    border-collapse: collapse;
-  }
+        border-collapse: collapse;
+        table-layout: fixed;
+        width: 100%;
+        text-align: left;
+ }   
 
 .intestazione-tabella {
     color: white;
     background-color: #20A9E5;
-    text-align: left;
 }
 
 .riga-tabella {
     background-color: #B1E5F2;
 }
+
+
+/* footer  */
 
 #informazioni-aggiuntive {
     color: #808080;
@@ -75,5 +87,3 @@ table {
     font-size: 20px;
     padding: 10px;
 }
-
-
