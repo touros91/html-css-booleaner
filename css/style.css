@@ -78,10 +78,6 @@ table {
     background-image: url("../img/monitor.jpg");
     width: 312px;
     height: 208px;
-    color: white;
-    font-weight: bold;
-    font-size: 20px;
-    padding: 10px;
     margin-bottom: 10px;
 }
 
@@ -89,6 +85,9 @@ table {
     background-image: url("../img/graph.jpg");
     width: 311px;
     height: 207px;
+}
+
+.footer-style {
     color: white;
     font-weight: bold;
     font-size: 20px;
