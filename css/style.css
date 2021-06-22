@@ -42,6 +42,10 @@
     background-color: yellow;
 }
 
+#lista {
+    padding-left: 15px;
+}
+
 /* tabella  */
 
 table {
