@@ -78,7 +78,6 @@ table {
     background-image: url("../img/monitor.jpg");
     width: 312px;
     height: 208px;
-    margin-bottom: 10px;
 }
 
 #footer-due{
@@ -92,4 +91,5 @@ table {
     font-weight: bold;
     font-size: 20px;
     padding: 10px;
+    background-repeat: no-repeat;
 }
